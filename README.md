@@ -7,7 +7,7 @@ unzip project.zip
 cd project
 
 
-#### Create a virtual environment
+#### Create a new (virtual) environment:
 python -m venv venv
 
 source venv/bin/activate  # On Windows: venv\Scripts\activate
